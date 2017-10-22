@@ -1,1 +1,3 @@
 使用Logist Regression 算法和二维的测试数据来画出拟合曲线后得到的图像，数据放置在data目录下，代码放置在code下
+fitline:梯度上升算法
+fitline：随机梯度上升算法
